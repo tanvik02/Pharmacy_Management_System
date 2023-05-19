@@ -9,8 +9,7 @@ Pharmacy Management System consists of mainly a things:
 
 > Agents Page - the detils of whoever have the access to this management system.
 
-NOTE: All the pages have unique ids and respective tables of their own.
+**NOTE: All the pages have unique ids and respective tables of their own.**
 
-Language used: Java
-Database used: MySql Database
+Languages and Tools used:  <img src="https://skillicons.dev/icons?i=java,mysql"/>
 
